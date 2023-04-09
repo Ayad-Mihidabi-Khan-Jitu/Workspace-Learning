@@ -2,9 +2,23 @@
 
 কি কি শিখেছি?
 
-**Competetive Programming
+**Competitive Programming
 1. Codeforces
 2. Leetcode
 
 **Languages & Frameword
-1.
+1. C/C++ & Basic Programming
+2. C# Basic-OOP
+3. Python Basic-OOP
+4. Django REST API
+5. Machine Learning & Deep Learning
+
+**Acadimic CSE
+1. 1st Sememster: Basic C/C++ Programming
+2. 3st Sememster: Data Structure & Algorithm
+3. 4st Sememster: HTML/CSS
+4. 5th Sememster: AI Lab, Numerical Method Lab
+5. 6th Sememster: Operating System Lab, Simulation Lab
+6. 7th Sememster: Compiler & Automata Lab
+7. [upcoming]8th Sememster: Computer Graphics & Image Processing  
+

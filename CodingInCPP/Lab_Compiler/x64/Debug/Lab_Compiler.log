@@ -1,0 +1,5 @@
+﻿  Lab1_Comment.cpp
+C:\Users\HP 840 G1\Documents\Visual Studio 2022\Projects\CodingInCPP\Lab_Compiler\Lab_Compiler\Lab1_Comment.cpp(6,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Lab1_Space.cpp
+  Generating Code...
+  Lab_Compiler.vcxproj -> C:\Users\HP 840 G1\Documents\Visual Studio 2022\Projects\CodingInCPP\x64\Debug\Lab_Compiler.exe

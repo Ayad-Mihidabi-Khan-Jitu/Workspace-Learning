@@ -1,4 +1,1 @@
-import numpy  as nmpy
-import matplotlib.pyplot as plt
-import pandas as pd
-print("Here")
+np.arange(0,10,2)

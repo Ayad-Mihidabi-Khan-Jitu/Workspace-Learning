@@ -113,14 +113,5 @@ weight = [0.3,0.2,0.5]
 result = np.matmul(climate_data,weight)
 print(result)
 
-pd.set_option('display.max_columns', None) 
-climate_dataset = pd.read_csv('./DailyDelhiClimateTrain.csv')
-#print(climate_dataset)
-#climate_dataset = pd.read_csv('./DailyDelhiClimateTrain.csv',header=False,index = False)
-#climate_dataset.drop(columns='',axis=1,inplace=True)
-#climate_dataset = climate_dataset.to_csv(header=None, index= False)
-climate_dataset.iloc[1: , 2:]
-print(climate_dataset.iloc[1: , 3:])
-
 
 

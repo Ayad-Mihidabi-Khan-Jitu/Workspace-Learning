@@ -1,3 +1,4 @@
+###PANDAS is directly build of NUMPY
 ###akhon akta jinish shikhbo seta holo: pandas er data frame
 import numpy as np
 import pandas as pd
@@ -82,42 +83,65 @@ import seaborn as sns
 
 ###Read From CSV File
 dataset= pd.read_csv('Drawable/DataSet.csv')
-X=dataset.iloc[:,1:2].values
-print(X)
 
-dataset.plot()
-plt.show()
+##Displaying the data
+print(dataset)
+#Single Column "Name"
+print(dataset['Name'])
+#Two Column "Name" "Age"
+print(dataset[['Name','Age']])
 
-s=pd.Series([1,2,3,"f"])
-date=pd.date_range('20200829',periods=6)
-print(date)
+##Analyzing Data
+#maximum age
+print(dataset['Age'].max())
 
-df=pd.DataFrame(np.random.randn(6,4),index=date,columns=list('ABCD'))
-print(df)
+#Statistical Summary of the Numerical Data only (Categorical data are skipped by default)
+print(dataset.describe())
 
-df['E']=['One','Two','Three','Four','Five','Six']
-print(df)
+#Filtering data
+print(dataset[dataset['Age']>12])
 
-s1=pd.Series([1,2,3,4,5,6],index=pd.date_range('20200904', periods=6))
-print(s1)
+#converting dataframe to datamatrix [We recommend using DataFrame.to_numpy() instead]
+data_matrix = dataset.values
+print(data_matrix)
 
-df['F']=s1
-print(df)
 
-df.to_excel('./Drawable/dateSet.xlsx',sheet_name='sheet1')
-df1=pd.read_excel('./Drawable/dateSet.xlsx',sheet_name='sheet1',index_col=None,na_values=['Na'])
-print(df1)
+# X=dataset.iloc[:,1:2].values
+# print(X)
 
-#df=df.cumsum()
-df.plot()
-plt.show()
+# dataset.plot()
+# plt.show()
 
-pd.set_option('display.max_columns', None) 
-climate_test_dataset = pd.read_csv('./Drawable/DailyDelhiClimateTest.csv')
-print(climate_test_dataset)
-climate_train_dataset = pd.read_csv('./Drawable/DailyDelhiClimateTrain.csv',index_col=False,header=None)
-print(climate_train_dataset)
-#climate_dataset.drop(columns='',axis=1,inplace=True)
-#climate_dataset = climate_dataset.to_csv(header=None, index= False)
-climate_train_dataset.iloc[1: , 2:]
-print(climate_train_dataset.iloc[1: , 3:])
+# s=pd.Series([1,2,3,"f"])
+# date=pd.date_range('20200829',periods=6)
+# print(date)
+
+# df=pd.DataFrame(np.random.randn(6,4),index=date,columns=list('ABCD'))
+# print(df)
+
+# df['E']=['One','Two','Three','Four','Five','Six']
+# print(df)
+
+# s1=pd.Series([1,2,3,4,5,6],index=pd.date_range('20200904', periods=6))
+# print(s1)
+
+# df['F']=s1
+# print(df)
+
+# df.to_excel('./Drawable/dateSet.xlsx',sheet_name='sheet1')
+# df1=pd.read_excel('./Drawable/dateSet.xlsx',sheet_name='sheet1',index_col=None,na_values=['Na'])
+# print(df1)
+
+# #df=df.cumsum()
+# df.plot()
+# plt.show()
+
+# pd.set_option('display.max_columns', None) 
+# climate_test_dataset = pd.read_csv('./Drawable/DailyDelhiClimateTest.csv')
+# print(climate_test_dataset)
+# climate_train_dataset = pd.read_csv('./Drawable/DailyDelhiClimateTrain.csv',index_col=False,header=None)
+# print(climate_train_dataset)
+# #climate_dataset.drop(columns='',axis=1,inplace=True)
+# #climate_dataset = climate_dataset.to_csv(header=None, index= False)
+# climate_train_dataset.iloc[1: , 2:]
+# print(climate_train_dataset.iloc[1: , 3:])

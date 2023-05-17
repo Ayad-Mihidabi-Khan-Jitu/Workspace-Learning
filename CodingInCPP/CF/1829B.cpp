@@ -4,7 +4,8 @@ typedef long long ll;
 typedef unsigned long long ull;
 #define nl '\n';
 
-void solve(int i) {
+void solve(int i) 
+{
     int cou = 0,mcou=0;
     int n,num;
     cin >> n;

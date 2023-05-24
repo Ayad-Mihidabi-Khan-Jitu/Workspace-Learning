@@ -121,5 +121,8 @@ tt.right(45)
 
 '''
 
-
-
+##data visualization er easy tools eta, jeta notebook e kaj kore
+#import pandas as pd
+#import pygwalker as pyg
+#df = pd.read_csv('C:/Users/HP 840 G1/Documents/VS Code Projects/Workspace Learning/#DataScience/BasicPython/Drawable/DailyDelhiClimateTest.csv')
+#gwalker = pyg.walk(df)

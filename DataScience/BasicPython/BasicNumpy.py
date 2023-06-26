@@ -112,6 +112,3 @@ climate_data = [[73,67,43],
 weight = [0.3,0.2,0.5]
 result = np.matmul(climate_data,weight)
 print(result)
-
-
-

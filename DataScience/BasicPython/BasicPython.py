@@ -309,11 +309,11 @@ print(naturalNumberSet2)
 naturalNumberSet2.remove(2)
 print(naturalNumberSet2)
 
-#iterating set using for loop and enumerate
+#iterating set using for loop 
 for number in  naturalNumberSet1:
     print(number)
 
-#iterating set using for loop
+#iterating set using for loop and enumerate
 for number in  enumerate(naturalNumberSet2):
     print(number)
 
@@ -522,7 +522,7 @@ class Person:
     def walk(self):
         return "{} is walking".format(self.name)
 
-#child class
+#child class Student extending Person
 class Student(Person):
     profession = "student"
 student = Student("jitu",23,"male")
@@ -537,14 +537,14 @@ print(student.walk())
 #filename: gives name of the file that the file object has opened.
 #mode: attribute of a file object tells you which mode a file was opened in.
 #   Mode	            Description
-#      'r'	          This is the default mode. It Opens file for reading.
+#     'r'	          This is the default mode. It Opens file for reading.
 #     'w'	          This Mode Opens file for writing.
 #                       If file does not exist, it creates a new file.
 #                       If file exists it truncates the file.
 #     'x'	          Creates a new file. If file already exists, the operation fails.
 #     'a'	          Open file in append mode.
 #                       If file does not exist, it creates a new file.
-#     't'	              This is the default mode. It opens in text mode.
+#     't'	          This is the default mode. It opens in text mode.
 #     'b'	          This opens in binary mode.
 #     '+'	          This will open a file for reading and writing (updating)
 #NB: It is always safe to close the file after open

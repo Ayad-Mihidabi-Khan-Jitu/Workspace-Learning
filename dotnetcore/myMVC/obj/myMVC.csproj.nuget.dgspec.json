@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP 840 G1\\Documents\\VS Code Projects\\Workspace Learning\\dotnetcore\\myMVC\\myMVC.csproj": {}
+    "c:\\Users\\HP 840 G1\\Documents\\VS Code Projects\\Workspace Learning\\dotnetcore\\myMVC\\myMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP 840 G1\\Documents\\VS Code Projects\\Workspace Learning\\dotnetcore\\myMVC\\myMVC.csproj": {
+    "c:\\Users\\HP 840 G1\\Documents\\VS Code Projects\\Workspace Learning\\dotnetcore\\myMVC\\myMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP 840 G1\\Documents\\VS Code Projects\\Workspace Learning\\dotnetcore\\myMVC\\myMVC.csproj",
+        "projectUniqueName": "c:\\Users\\HP 840 G1\\Documents\\VS Code Projects\\Workspace Learning\\dotnetcore\\myMVC\\myMVC.csproj",
         "projectName": "myMVC",
-        "projectPath": "C:\\Users\\HP 840 G1\\Documents\\VS Code Projects\\Workspace Learning\\dotnetcore\\myMVC\\myMVC.csproj",
+        "projectPath": "c:\\Users\\HP 840 G1\\Documents\\VS Code Projects\\Workspace Learning\\dotnetcore\\myMVC\\myMVC.csproj",
         "packagesPath": "C:\\Users\\HP 840 G1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP 840 G1\\Documents\\VS Code Projects\\Workspace Learning\\dotnetcore\\myMVC\\obj\\",
+        "outputPath": "c:\\Users\\HP 840 G1\\Documents\\VS Code Projects\\Workspace Learning\\dotnetcore\\myMVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP 840 G1\\AppData\\Roaming\\NuGet\\NuGet.Config"

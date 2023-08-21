@@ -1,3 +1,4 @@
+###https://blog.enterprisedna.co/pandas-drop-index/
 ###PANDAS is directly build of NUMPY
 ###akhon akta jinish shikhbo seta holo: pandas er data frame
 import numpy as np

@@ -9,7 +9,7 @@ import seaborn as sns
 sns.set()
 
 #importing table from local storage
-UniversityData = pd.read_csv('C:/Users/HP 840 G1/Desktop/Semester 5/Artificial Intelligence/Lab Work/Regression/1.Simple linear regression.csv')
+UniversityData = pd.read_csv("C:/Users/HP 840 G1/Documents/VS Code Projects/Workspace Learning/DataScience/DataScienceInPython/Drawable/1.Simple_linear_regression.csv")
 print("Table of SAT and GPA")
 print(UniversityData)
 

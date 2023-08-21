@@ -1,8 +1,8 @@
 import matplotlib.pyplot as plt
 #import CartesianWindow as window
-import CartesianWindowP as window
+#import CartesianWindowP as window
 
-window.CWindow(10,20)
+#window.CWindow(10,20)
 
 def LINEBresenham(sp,ep):
     

@@ -4,7 +4,8 @@ typedef long long ll;
 typedef unsigned long long ull;
 #define nl '\n';
 
-    int subarraySum(vector<int>& arr, int k) {
+    int subarraySum(vector<int>& arr, int k) 
+    {
         int n = arr.size(); // take the size of the array
         
         int prefix[n]; // make a prefix array to store prefix sum
@@ -38,7 +39,8 @@ typedef unsigned long long ull;
         return ans; // and at last, return our answer
     }
 
-    int main(){
+    int main()
+    {
         int t=1;
         //cin>>t;
         

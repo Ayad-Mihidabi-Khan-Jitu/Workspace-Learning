@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\HP 840 G1\\Documents\\VS Code Projects\\Workspace Learning\\LearningCSharp\\Indexer\\Indexer.csproj": {}
+    "C:\\Users\\HP 840 G1\\Documents\\VS Code Projects\\Workspace Learning\\LearningCSharp\\Indexer\\Indexer.csproj": {}
   },
   "projects": {
-    "c:\\Users\\HP 840 G1\\Documents\\VS Code Projects\\Workspace Learning\\LearningCSharp\\Indexer\\Indexer.csproj": {
+    "C:\\Users\\HP 840 G1\\Documents\\VS Code Projects\\Workspace Learning\\LearningCSharp\\Indexer\\Indexer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\HP 840 G1\\Documents\\VS Code Projects\\Workspace Learning\\LearningCSharp\\Indexer\\Indexer.csproj",
+        "projectUniqueName": "C:\\Users\\HP 840 G1\\Documents\\VS Code Projects\\Workspace Learning\\LearningCSharp\\Indexer\\Indexer.csproj",
         "projectName": "Indexer",
-        "projectPath": "c:\\Users\\HP 840 G1\\Documents\\VS Code Projects\\Workspace Learning\\LearningCSharp\\Indexer\\Indexer.csproj",
+        "projectPath": "C:\\Users\\HP 840 G1\\Documents\\VS Code Projects\\Workspace Learning\\LearningCSharp\\Indexer\\Indexer.csproj",
         "packagesPath": "C:\\Users\\HP 840 G1\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\HP 840 G1\\Documents\\VS Code Projects\\Workspace Learning\\LearningCSharp\\Indexer\\obj\\",
+        "outputPath": "C:\\Users\\HP 840 G1\\Documents\\VS Code Projects\\Workspace Learning\\LearningCSharp\\Indexer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP 840 G1\\AppData\\Roaming\\NuGet\\NuGet.Config"

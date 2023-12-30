@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\HP 840 G1\\Documents\\VS Code Projects\\Workspace Learning\\LearningCSharp\\Deconstructor\\Deconstructor.csproj": {}
+    "C:\\Users\\HP 840 G1\\Documents\\VS Code Projects\\Workspace Learning\\LearningCSharp\\Deconstructor\\Deconstructor.csproj": {}
   },
   "projects": {
-    "c:\\Users\\HP 840 G1\\Documents\\VS Code Projects\\Workspace Learning\\LearningCSharp\\Deconstructor\\Deconstructor.csproj": {
+    "C:\\Users\\HP 840 G1\\Documents\\VS Code Projects\\Workspace Learning\\LearningCSharp\\Deconstructor\\Deconstructor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\HP 840 G1\\Documents\\VS Code Projects\\Workspace Learning\\LearningCSharp\\Deconstructor\\Deconstructor.csproj",
+        "projectUniqueName": "C:\\Users\\HP 840 G1\\Documents\\VS Code Projects\\Workspace Learning\\LearningCSharp\\Deconstructor\\Deconstructor.csproj",
         "projectName": "Deconstructor",
-        "projectPath": "c:\\Users\\HP 840 G1\\Documents\\VS Code Projects\\Workspace Learning\\LearningCSharp\\Deconstructor\\Deconstructor.csproj",
+        "projectPath": "C:\\Users\\HP 840 G1\\Documents\\VS Code Projects\\Workspace Learning\\LearningCSharp\\Deconstructor\\Deconstructor.csproj",
         "packagesPath": "C:\\Users\\HP 840 G1\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\HP 840 G1\\Documents\\VS Code Projects\\Workspace Learning\\LearningCSharp\\Deconstructor\\obj\\",
+        "outputPath": "C:\\Users\\HP 840 G1\\Documents\\VS Code Projects\\Workspace Learning\\LearningCSharp\\Deconstructor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP 840 G1\\AppData\\Roaming\\NuGet\\NuGet.Config"

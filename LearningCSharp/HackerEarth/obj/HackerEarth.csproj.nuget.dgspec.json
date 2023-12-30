@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\HP 840 G1\\Documents\\VS Code Projects\\Workspace Learning\\LearningCSharp\\HackerEarth\\HackerEarth.csproj": {}
+    "C:\\Users\\HP 840 G1\\Documents\\VS Code Projects\\Workspace Learning\\LearningCSharp\\HackerEarth\\HackerEarth.csproj": {}
   },
   "projects": {
-    "c:\\Users\\HP 840 G1\\Documents\\VS Code Projects\\Workspace Learning\\LearningCSharp\\HackerEarth\\HackerEarth.csproj": {
+    "C:\\Users\\HP 840 G1\\Documents\\VS Code Projects\\Workspace Learning\\LearningCSharp\\HackerEarth\\HackerEarth.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\HP 840 G1\\Documents\\VS Code Projects\\Workspace Learning\\LearningCSharp\\HackerEarth\\HackerEarth.csproj",
+        "projectUniqueName": "C:\\Users\\HP 840 G1\\Documents\\VS Code Projects\\Workspace Learning\\LearningCSharp\\HackerEarth\\HackerEarth.csproj",
         "projectName": "HackerEarth",
-        "projectPath": "c:\\Users\\HP 840 G1\\Documents\\VS Code Projects\\Workspace Learning\\LearningCSharp\\HackerEarth\\HackerEarth.csproj",
+        "projectPath": "C:\\Users\\HP 840 G1\\Documents\\VS Code Projects\\Workspace Learning\\LearningCSharp\\HackerEarth\\HackerEarth.csproj",
         "packagesPath": "C:\\Users\\HP 840 G1\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\HP 840 G1\\Documents\\VS Code Projects\\Workspace Learning\\LearningCSharp\\HackerEarth\\obj\\",
+        "outputPath": "C:\\Users\\HP 840 G1\\Documents\\VS Code Projects\\Workspace Learning\\LearningCSharp\\HackerEarth\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP 840 G1\\AppData\\Roaming\\NuGet\\NuGet.Config"

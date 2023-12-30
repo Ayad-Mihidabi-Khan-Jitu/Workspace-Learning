@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\HP 840 G1\\Documents\\VS Code Projects\\Workspace Learning\\LearningCSharp\\Abstract\\Abstract.csproj": {}
+    "C:\\Users\\HP 840 G1\\Documents\\VS Code Projects\\Workspace Learning\\LearningCSharp\\Abstract\\Abstract.csproj": {}
   },
   "projects": {
-    "c:\\Users\\HP 840 G1\\Documents\\VS Code Projects\\Workspace Learning\\LearningCSharp\\Abstract\\Abstract.csproj": {
+    "C:\\Users\\HP 840 G1\\Documents\\VS Code Projects\\Workspace Learning\\LearningCSharp\\Abstract\\Abstract.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\HP 840 G1\\Documents\\VS Code Projects\\Workspace Learning\\LearningCSharp\\Abstract\\Abstract.csproj",
+        "projectUniqueName": "C:\\Users\\HP 840 G1\\Documents\\VS Code Projects\\Workspace Learning\\LearningCSharp\\Abstract\\Abstract.csproj",
         "projectName": "Abstract",
-        "projectPath": "c:\\Users\\HP 840 G1\\Documents\\VS Code Projects\\Workspace Learning\\LearningCSharp\\Abstract\\Abstract.csproj",
+        "projectPath": "C:\\Users\\HP 840 G1\\Documents\\VS Code Projects\\Workspace Learning\\LearningCSharp\\Abstract\\Abstract.csproj",
         "packagesPath": "C:\\Users\\HP 840 G1\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\HP 840 G1\\Documents\\VS Code Projects\\Workspace Learning\\LearningCSharp\\Abstract\\obj\\",
+        "outputPath": "C:\\Users\\HP 840 G1\\Documents\\VS Code Projects\\Workspace Learning\\LearningCSharp\\Abstract\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP 840 G1\\AppData\\Roaming\\NuGet\\NuGet.Config"

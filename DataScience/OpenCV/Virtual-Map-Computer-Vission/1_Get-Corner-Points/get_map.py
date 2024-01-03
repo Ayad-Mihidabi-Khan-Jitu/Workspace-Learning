@@ -19,10 +19,12 @@ counter = 0
 ##mouse points
 def mousePoints(event,x,y,flags,params):
     global counter
+
+    #if the left button of the mouse clicked
     if event == cv2.EVENT_LBUTTONDOWN:
         points[counter]=x,y #store clicked point
         counter+=1 #increment counter
-        print(f"Clicked points: {points}")
+        print(f"Clicked points: \n {points}")
 
 #warp captured image
 def warpImage(img,points,size=[width,height-200]):
@@ -40,11 +42,11 @@ while True:
     #0. initialize cam read to produce image
     success,img = cap.read()
 
-    #3. Save selected points to file
+    #3. Save selected 4 points of the map border the to file
     if counter == 4:
-        path = "DataScience/OpenCV/Virtual-Map-Computer-Vission/1_Get-Corner-Points/"
-        fileObj = open(path+"map.p","wb")
-        pickle.dump(points,fileObj)
+        path = "DataScience/OpenCV/Virtual-Map-Computer-Vission/1_Get-Corner-Points/map.p"
+        fileObj = open(path,"wb")
+        pickle.dump(points,fileObj) #store the coordinates to file
         fileObj.close()
         print("Points saved to file: map.p")
 

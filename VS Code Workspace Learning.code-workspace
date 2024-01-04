@@ -90,6 +90,7 @@
 			"valarray": "cpp"
 		},
 		"java.configuration.updateBuildConfiguration": "interactive",
-		"dotnet.defaultSolution": "Workspace Learning.sln"
+		"dotnet.defaultSolution": "Workspace Learning.sln",
+		"dotnet.preferCSharpExtension": true
 	}
 }

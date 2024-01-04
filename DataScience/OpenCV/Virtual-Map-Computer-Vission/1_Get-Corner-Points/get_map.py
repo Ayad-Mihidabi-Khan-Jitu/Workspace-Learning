@@ -48,7 +48,9 @@ while True:
         fileObj = open(path,"wb")
         pickle.dump(points,fileObj) #store the coordinates to file
         fileObj.close()
+
         print("Points saved to file: map.p")
+        counter+=1 #to avoid printing 
 
         #4. wrap the image
         warpedImgOutput,matrix = warpImage(img,points)

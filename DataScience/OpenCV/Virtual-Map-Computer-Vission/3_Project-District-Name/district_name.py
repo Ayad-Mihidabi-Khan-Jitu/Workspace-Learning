@@ -133,8 +133,8 @@ while True:
 
     #if there is a warped point 
     if warped_point:
-        # imgOverlay = create_overlay_image(polygons, warped_point, imgOverlay)
-        # imgOutput = inverseWarpImage(img,imgOverlay,map_points)
+        imgOverlay = create_overlay_image(polygons, warped_point, imgOverlay)
+        imgOutput = inverseWarpImage(img,imgOverlay,map_points)
 
     # #stack the images in a single Window
     # stacked_image = cvzone.stackImages([img,warped_img,imgOutput,imgOverlay],2,0.3)

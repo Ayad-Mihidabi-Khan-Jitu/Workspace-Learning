@@ -31,4 +31,9 @@ while True:
             pyautogui.click()
             pyautogui.sleep(1)
     cv2.imshow('Eye Controlled Mouse', frame)
-    cv2.waitKey(1)
+    if cv2.waitKey(1) & 0xFF == ord('q'):
+        break
+
+#release resources
+cam.release()
+cv2.destroyAllWindows()

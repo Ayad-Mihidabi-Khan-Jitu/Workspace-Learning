@@ -1,9 +1,0 @@
-int main()                                      \n
-		{		                \n
-		 // variable declaration        \n
-		 int num1, num2, num3;          \n
-		 /* This is a test  multiline	\n
-				 comment for    \n
-				 testing */	\n
-			 num1 = num2 + num2;	\n
-		}		                \n

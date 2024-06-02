@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HackerEarth")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5563eea6e92f0c55a616f4df550a6a32d210cf60")]
 [assembly: System.Reflection.AssemblyProductAttribute("HackerEarth")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HackerEarth")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

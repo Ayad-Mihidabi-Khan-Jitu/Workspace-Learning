@@ -91,6 +91,11 @@
 		},
 		"java.configuration.updateBuildConfiguration": "interactive",
 		"dotnet.defaultSolution": "Workspace Learning.sln",
-		"dotnet.preferCSharpExtension": true
+		"dotnet.preferCSharpExtension": true,
+		"emmet.includeLanguages": {
+			"django-html": "html"
+		},
+		"auto-close-tag.fullMode": true,
+		"html.autoClosingTags": true
 	}
 }
